@@ -1,6 +1,14 @@
 LineageOS
 ===========
 
+Huawei BLA-L29 source preparation
+--------------------------------
+
+The `blanc-lineage-24.0` branch contains a [Huawei source preparation guide](huawei/README.md)
+and a pinned device overlay. This is preparation for an experimental LineageOS 24.0
+port; it is **not build-ready or boot-ready**. The upstream manifest below is
+preserved. Use the Huawei guide for this device.
+
 Getting started
 ---------------
 

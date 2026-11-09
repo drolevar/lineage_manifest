@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest>
+  <!-- Generated from huawei/source-plan.json; edit JSON, then run huawei/bootstrap.py render. -->
+  <remote name="blanc-github" fetch="https://github.com" />
+  <project name="drolevar/android_device_huawei_blanc" path="device/huawei/blanc" remote="blanc-github" revision="f2051951ac90b0549ebfd525f84b3c7450ba9233" upstream="refs/heads/blanc-lineage-24.0" />
+  <project name="drolevar/android_device_huawei_kirin970-common" path="device/huawei/kirin970-common" remote="blanc-github" revision="7401ba672217c454ffeaabf92ccb517f44cce8fb" upstream="refs/heads/blanc-lineage-24.0" />
+  <project name="drolevar/android_hardware_huawei" path="hardware/huawei" remote="blanc-github" revision="11f107567353eda17b396ac95800b7da8525728c" upstream="refs/heads/blanc-lineage-24.0" />
+  <project name="drolevar/android_kernel_huawei_kirin970" path="kernel/huawei/kirin970" remote="blanc-github" revision="f3d95db4f34a044a264c4a234bc49d78b066da4e" upstream="refs/heads/blanc-lineage-24.0" />
+</manifest>
