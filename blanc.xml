@@ -258,7 +258,7 @@
   <project name="LineageOS/android_system_sepolicy" path="system/sepolicy" revision="d61fd80832f558d52de026097d30d695634e8b0f" upstream="refs/heads/lineage-24.0" dest-branch="refs/heads/lineage-24.0" groups="pdk"/>
   <project name="LineageOS/android_system_update_engine" path="system/update_engine" revision="b12fb307bb2f96c06370d143e38c3630f14044e0" upstream="refs/heads/lineage-24.0" dest-branch="refs/heads/lineage-24.0" groups="pdk"/>
   <project name="LineageOS/android_system_usb" path="system/usb" revision="2c8cc049b8d42dee64c361e0d1f27ca051f2d1be" upstream="refs/heads/lineage-24.0" dest-branch="refs/heads/lineage-24.0" groups="pdk"/>
-  <project name="LineageOS/android_system_vold" path="system/vold" revision="11d8982f824d52e8122c7aa732207ba66b8f23c8" upstream="refs/heads/lineage-24.0" dest-branch="refs/heads/lineage-24.0" groups="pdk"/>
+  <project name="drolevar/android_system_vold" path="system/vold" remote="blanc-forks" revision="c2ac15d652923c4ea48afd6f6a6c4396462c4a2f" upstream="refs/heads/bla225-metadata-nullguard" dest-branch="refs/heads/bla225-metadata-nullguard" groups="pdk"/>
   <project name="LineageOS/android_tools_extract-utils" path="tools/extract-utils" revision="78ba5d58c4b06712e18bb387a2a72eac8fbc8d70" upstream="refs/heads/lineage-24.0" dest-branch="refs/heads/lineage-24.0"/>
   <project name="LineageOS/android_trusty_user_base" path="trusty/user/base" revision="058cbb7314268dd01c13263affc593ed87426b04" upstream="refs/heads/lineage-24.0" dest-branch="refs/heads/lineage-24.0" groups="pdk,trusty"/>
   <project name="LineageOS/android_vendor_apn" path="vendor/apn" revision="2842825e44b5ad6e247467bd7a16c1d8bf80407f" upstream="main" dest-branch="main"/>
